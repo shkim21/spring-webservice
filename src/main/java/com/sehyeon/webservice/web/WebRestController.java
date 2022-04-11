@@ -24,3 +24,4 @@ public class WebRestController {
         postsRepository.save(dto.toEntity());
     }
 }
+
